@@ -1,0 +1,8 @@
+Asad Ullah is an AI Automation Specialist based in Sialkot, Pakistan.
+He builds AI agents and automation workflows using n8n, Zapier, and Make.com.
+He integrates AI models like Claude and Gemini into his projects.
+He is HubSpot certified in Inbound Marketing and Digital Marketing.
+His portfolio is at asad-portfolio-drab.vercel.app.
+He has built a WhatsApp AI agent, a lead generation agent, and a document chatbot.
+He is currently learning Python to build AI agents with code.
+His favorite tools are n8n for automation and Gemini for AI.
