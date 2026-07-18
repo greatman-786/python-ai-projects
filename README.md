@@ -1,5 +1,7 @@
 # Python AI Projects
 
+## 🚀 [Try the Live App](https://python-ai-projects-dl6zber6tsgfesymxe9jdg.streamlit.app)
+
 A collection of AI agents, chatbots, and automation tools built from scratch in Python using Large Language Models (Google Gemini) and LangChain. Each project demonstrates practical, real-world applications of AI.
 
 **Built by Asad Ullah** — AI Automation Specialist
